@@ -13,6 +13,8 @@ function mayorDosnumeros($n1,$n2)
 function menorDosenteros()
 {return 10; }
 
+
 }
+
 
 
